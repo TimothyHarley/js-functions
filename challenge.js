@@ -20,29 +20,3 @@ takeNumber("Coldplay");
 
 
 
-
-
-
-
-//
-
-//let bandNumber = 1;
-
-//const takeNumber = function () {
-
-
-
-//  printToDom(bandNumber, );
-//}
-
-//takeNumber("Galactic Scum")
-//takeNumber("Underdogs")
-
-
-
-//const printToDom = (stringToPrint, divId) => {
-//    const selectedDiv = document.getElementById(divId);
-//    selectedDiv.innerHTML += stringToPrint;
-//};
-
-//
